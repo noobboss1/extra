@@ -1,4 +1,5 @@
 # noobboss1-extra
+pkg update && pkg upgrade
 
 pkg install python
 
